@@ -18,6 +18,7 @@ plt.rcParams['svg.fonttype'] = 'none'
 plt.rcParams['font.family'] = 'Arial'
 
 ## Import local packages
+
 import mapping_career_causeways
 import mapping_career_causeways.compare_nodes_utils as compare_nodes_utils
 find_closest = compare_nodes_utils.find_closest
